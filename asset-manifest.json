@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HW-22-mui/static/css/main.5a44ace7.css",
+    "main.js": "/HW-22-mui/static/js/main.fdd3d521.js",
+    "static/media/summary-background.jpg": "/HW-22-mui/static/media/summary-background.058e3a5749d88597754f.jpg",
+    "index.html": "/HW-22-mui/index.html",
+    "main.5a44ace7.css.map": "/HW-22-mui/static/css/main.5a44ace7.css.map",
+    "main.fdd3d521.js.map": "/HW-22-mui/static/js/main.fdd3d521.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a44ace7.css",
+    "static/js/main.fdd3d521.js"
+  ]
+}
